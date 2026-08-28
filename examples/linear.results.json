@@ -1,0 +1,475 @@
+{
+  "brand": "Linear",
+  "domain": "linear.app",
+  "market": {
+    "location_name": "United States",
+    "language_code": "en"
+  },
+  "engines": [
+    "chatgpt"
+  ],
+  "runs": 5,
+  "startedAt": "2026-08-28T13:37:43.973Z",
+  "totalCostUsd": 0.6677465,
+  "results": [
+    {
+      "query": "what is Linear app",
+      "class": "branded",
+      "engine": "chatgpt",
+      "runs": 5,
+      "completed": 5,
+      "mentionRate": 1,
+      "citationRate": 0.2,
+      "flapped": true,
+      "bestRank": 1,
+      "citedHosts": {
+        "linear.app": 1,
+        "ifttt.com": 1
+      },
+      "competitorsMentioned": {
+        "Jira": 5,
+        "Shortcut": 3,
+        "Trello": 4,
+        "GitHub Issues": 1,
+        "Asana": 1
+      },
+      "costUsd": 0.024508250000000002,
+      "errors": []
+    },
+    {
+      "query": "Linear vs Jira for software teams",
+      "class": "branded",
+      "engine": "chatgpt",
+      "runs": 5,
+      "completed": 5,
+      "mentionRate": 1,
+      "citationRate": 0,
+      "flapped": false,
+      "bestRank": 1,
+      "citedHosts": {
+        "automationatlas.io": 1,
+        "stackcompare.net": 1,
+        "stackfyi.com": 1,
+        "tinystartups.com": 1,
+        "ideaplan.io": 1,
+        "toolchew.com": 1,
+        "comparetiers.com": 1,
+        "listicler.com": 1
+      },
+      "competitorsMentioned": {
+        "Jira": 5,
+        "Notion": 2
+      },
+      "costUsd": 0.033555,
+      "errors": []
+    },
+    {
+      "query": "Linear app pricing",
+      "class": "branded",
+      "engine": "chatgpt",
+      "runs": 5,
+      "completed": 5,
+      "mentionRate": 1,
+      "citationRate": 1,
+      "flapped": false,
+      "bestRank": 1,
+      "citedHosts": {
+        "linear.app": 5,
+        "capterra.com": 1
+      },
+      "competitorsMentioned": {},
+      "costUsd": 0.089881,
+      "errors": []
+    },
+    {
+      "query": "is Linear good for issue tracking",
+      "class": "branded",
+      "engine": "chatgpt",
+      "runs": 5,
+      "completed": 5,
+      "mentionRate": 1,
+      "citationRate": 0.4,
+      "flapped": true,
+      "bestRank": 1,
+      "citedHosts": {
+        "g2.com": 1,
+        "linear.app": 2,
+        "appstackinsider.com": 1,
+        "reddit.com": 1,
+        "thedigitalprojectmanager.com": 1,
+        "createpipe.com": 1,
+        "issuelinker.com": 1,
+        "clickup.com": 1,
+        "jiraalternatives.net": 1
+      },
+      "competitorsMentioned": {
+        "Jira": 5,
+        "Asana": 5,
+        "ClickUp": 4,
+        "GitHub Issues": 3,
+        "Shortcut": 2,
+        "Trello": 1
+      },
+      "costUsd": 0.038642750000000003,
+      "errors": []
+    },
+    {
+      "query": "Linear app review",
+      "class": "branded",
+      "engine": "chatgpt",
+      "runs": 5,
+      "completed": 5,
+      "mentionRate": 0.8,
+      "citationRate": 0.2,
+      "flapped": true,
+      "bestRank": 1,
+      "citedHosts": {
+        "linear.app": 1,
+        "toolsbrief.com": 1,
+        "reddit.com": 1,
+        "thedigitalprojectmanager.com": 1
+      },
+      "competitorsMentioned": {
+        "Jira": 5,
+        "Trello": 5,
+        "Asana": 4,
+        "GitHub Issues": 1,
+        "ClickUp": 1
+      },
+      "costUsd": 0.046355,
+      "errors": []
+    },
+    {
+      "query": "best issue tracker for software teams",
+      "class": "unbranded",
+      "engine": "chatgpt",
+      "runs": 5,
+      "completed": 3,
+      "mentionRate": 1,
+      "citationRate": 0.3333333333333333,
+      "flapped": true,
+      "bestRank": 2,
+      "citedHosts": {
+        "github.com": 1,
+        "docs.gitlab.com": 1,
+        "linear.app": 1,
+        "jetbrains.com": 1,
+        "learn.microsoft.com": 1,
+        "en.wikipedia.org": 1,
+        "capterra.com": 1,
+        "createpipe.com": 1,
+        "phuse.s3.eu-central-1.amazonaws.com": 1,
+        "thespinozajournal.com": 1,
+        "resources.jetbrains.com": 1,
+        "lelabtechnique.fr": 1,
+        "s204.q4cdn.com": 1,
+        "stackfyi.com": 1
+      },
+      "competitorsMentioned": {
+        "GitHub Issues": 3,
+        "Shortcut": 3,
+        "Jira": 3,
+        "Trello": 1,
+        "Asana": 1,
+        "ClickUp": 2
+      },
+      "costUsd": 0.043704,
+      "errors": [
+        "ai_optimization/chat_gpt/llm_responses/live: fetch failed: TypeError: fetch failed\n  → Network or timeout. The request is idempotent — safe to re-run.",
+        "ai_optimization/chat_gpt/llm_responses/live: fetch failed: TypeError: fetch failed\n  → Network or timeout. The request is idempotent — safe to re-run."
+      ]
+    },
+    {
+      "query": "fastest project management tool for engineers",
+      "class": "unbranded",
+      "engine": "chatgpt",
+      "runs": 5,
+      "completed": 5,
+      "mentionRate": 0.8,
+      "citationRate": 0.2,
+      "flapped": true,
+      "bestRank": 1,
+      "citedHosts": {
+        "appstested.com": 1,
+        "shortcut.com": 3,
+        "launchadvisor.co": 1,
+        "clickup.com": 2,
+        "pmtoolscout.com": 1,
+        "stackfyi.com": 2,
+        "toolvaults.net": 1,
+        "itechguides.com": 1,
+        "saasversus.com": 1,
+        "ji4.io": 1,
+        "youngju.dev": 1,
+        "prompteddev.com": 1,
+        "linear.app": 1,
+        "github.com": 1,
+        "atlassian.com": 1
+      },
+      "competitorsMentioned": {
+        "Shortcut": 4,
+        "Jira": 4,
+        "ClickUp": 3,
+        "Notion": 1,
+        "Trello": 1,
+        "Asana": 2,
+        "Height": 1
+      },
+      "costUsd": 0.060108999999999996,
+      "errors": []
+    },
+    {
+      "query": "Jira alternatives for small engineering teams",
+      "class": "unbranded",
+      "engine": "chatgpt",
+      "runs": 5,
+      "completed": 5,
+      "mentionRate": 1,
+      "citationRate": 0.4,
+      "flapped": true,
+      "bestRank": 2,
+      "citedHosts": {
+        "linear.app": 2,
+        "github.com": 2,
+        "jetbrains.com": 3,
+        "trello.com": 2,
+        "stackfyi.com": 3,
+        "monday.com": 2,
+        "reddit.com": 2,
+        "ideaplan.io": 1,
+        "taiga.io": 1,
+        "shortcut.com": 2,
+        "docs.gitlab.com": 1,
+        "help.clickup.com": 2,
+        "notionprojectmanagement.com": 1,
+        "saasversus.com": 1,
+        "utupub.fi": 1,
+        "sasanova.com": 1,
+        "zapier.com": 2,
+        "scrumpy.it": 1
+      },
+      "competitorsMentioned": {
+        "Jira": 5,
+        "GitHub Issues": 5,
+        "Trello": 4,
+        "Asana": 3,
+        "Shortcut": 5,
+        "Monday.com": 3,
+        "ClickUp": 4,
+        "Notion": 2
+      },
+      "costUsd": 0.09839675,
+      "errors": []
+    },
+    {
+      "query": "how to track bugs and features in one tool",
+      "class": "unbranded",
+      "engine": "chatgpt",
+      "runs": 5,
+      "completed": 5,
+      "mentionRate": 1,
+      "citationRate": 0,
+      "flapped": false,
+      "bestRank": 2,
+      "citedHosts": {},
+      "competitorsMentioned": {
+        "Jira": 5,
+        "GitHub Issues": 4,
+        "ClickUp": 4,
+        "Asana": 3,
+        "Trello": 2,
+        "Shortcut": 2
+      },
+      "costUsd": 0.0233295,
+      "errors": []
+    },
+    {
+      "query": "best sprint planning software 2026",
+      "class": "unbranded",
+      "engine": "chatgpt",
+      "runs": 5,
+      "completed": 5,
+      "mentionRate": 1,
+      "citationRate": 0.2,
+      "flapped": true,
+      "bestRank": 2,
+      "citedHosts": {
+        "atlassian.com": 3,
+        "clickup.com": 5,
+        "getsprintflow.co": 3,
+        "reddit.com": 2,
+        "aras.com": 1,
+        "trybuildpilot.com": 1,
+        "saasversus.com": 1,
+        "agileparrot.com": 1,
+        "goodday.work": 1,
+        "digitalfrontier.news": 1,
+        "community.atlassian.com": 1,
+        "thedigitalprojectmanager.com": 1,
+        "projectmanagementclub.net": 1,
+        "marketplace.atlassian.com": 1,
+        "jirareleases.atlassian.com": 1,
+        "g2.com": 1,
+        "support.atlassian.com": 1,
+        "linear.app": 1,
+        "techradar.com": 1,
+        "jotform.com": 1,
+        "agilegenesis.com": 1
+      },
+      "competitorsMentioned": {
+        "Jira": 5,
+        "ClickUp": 5,
+        "Shortcut": 3,
+        "GitHub Issues": 1,
+        "Trello": 1,
+        "Monday.com": 3,
+        "Asana": 2
+      },
+      "costUsd": 0.08613900000000001,
+      "errors": []
+    },
+    {
+      "query": "lightweight issue tracker with keyboard shortcuts",
+      "class": "unbranded",
+      "engine": "chatgpt",
+      "runs": 5,
+      "completed": 5,
+      "mentionRate": 1,
+      "citationRate": 0.8,
+      "flapped": true,
+      "bestRank": 1,
+      "citedHosts": {
+        "linear.app": 4,
+        "docs.github.com": 3,
+        "jetbrains.com": 4,
+        "support.atlassian.com": 2,
+        "docs.gitlab.com": 1,
+        "en.wikipedia.org": 1,
+        "todoist.com": 1,
+        "doccompiler.ai": 1
+      },
+      "competitorsMentioned": {
+        "Shortcut": 5,
+        "GitHub Issues": 4,
+        "Trello": 3
+      },
+      "costUsd": 0.09295125000000001,
+      "errors": []
+    },
+    {
+      "query": "project management tool startups actually use",
+      "class": "unbranded",
+      "engine": "chatgpt",
+      "runs": 5,
+      "completed": 5,
+      "mentionRate": 1,
+      "citationRate": 0,
+      "flapped": false,
+      "bestRank": 1,
+      "citedHosts": {
+        "themodernobserver.com": 1,
+        "survey.stackoverflow.co": 1,
+        "theentrepreneurstory.com": 1,
+        "shortcut.com": 1,
+        "saasvault.pro": 1,
+        "notion.com": 1,
+        "static1.squarespace.com": 1
+      },
+      "competitorsMentioned": {
+        "Jira": 5,
+        "GitHub Issues": 4,
+        "Trello": 5,
+        "Notion": 5,
+        "Asana": 5,
+        "ClickUp": 5,
+        "Shortcut": 4,
+        "Monday.com": 5,
+        "Basecamp": 5
+      },
+      "costUsd": 0.030175,
+      "errors": []
+    }
+  ],
+  "byClass": {
+    "branded": {
+      "queries": 5,
+      "failed": 0,
+      "citedAlways": 1,
+      "citedEver": 4,
+      "meanMentionRate": 0.96,
+      "meanCitationRate": 0.36,
+      "flapped": 3
+    },
+    "unbranded": {
+      "queries": 7,
+      "failed": 0,
+      "citedAlways": 0,
+      "citedEver": 5,
+      "meanMentionRate": 0.9714285714285714,
+      "meanCitationRate": 0.2761904761904762,
+      "flapped": 5
+    }
+  },
+  "topCitedHosts": [
+    {
+      "host": "linear.app",
+      "count": 18
+    },
+    {
+      "host": "clickup.com",
+      "count": 8
+    },
+    {
+      "host": "jetbrains.com",
+      "count": 8
+    },
+    {
+      "host": "stackfyi.com",
+      "count": 7
+    },
+    {
+      "host": "reddit.com",
+      "count": 6
+    },
+    {
+      "host": "shortcut.com",
+      "count": 6
+    },
+    {
+      "host": "github.com",
+      "count": 4
+    },
+    {
+      "host": "atlassian.com",
+      "count": 4
+    },
+    {
+      "host": "thedigitalprojectmanager.com",
+      "count": 3
+    },
+    {
+      "host": "docs.gitlab.com",
+      "count": 3
+    },
+    {
+      "host": "saasversus.com",
+      "count": 3
+    },
+    {
+      "host": "getsprintflow.co",
+      "count": 3
+    },
+    {
+      "host": "support.atlassian.com",
+      "count": 3
+    },
+    {
+      "host": "docs.github.com",
+      "count": 3
+    },
+    {
+      "host": "ideaplan.io",
+      "count": 2
+    }
+  ]
+}

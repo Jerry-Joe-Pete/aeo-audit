@@ -1,0 +1,13 @@
+{
+  "name": "aeo-audit",
+  "version": "1.0.0",
+  "description": "Measure how present a brand is in AI answer engines, split by branded and unbranded queries.",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=22.6.0" },
+  "bin": { "aeo-audit": "./src/cli.ts" },
+  "scripts": {
+    "audit": "node src/cli.ts",
+    "mcp": "node mcp/server.ts"
+  }
+}

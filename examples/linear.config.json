@@ -1,0 +1,38 @@
+{
+  "brand": {
+    "name": "Linear",
+    "domain": "linear.app",
+    "variants": ["Linear.app"]
+  },
+  "ownDomains": ["linear.app"],
+  "competitors": [
+    { "name": "Jira", "domain": "atlassian.com" },
+    { "name": "Asana", "domain": "asana.com" },
+    { "name": "Shortcut", "domain": "shortcut.com" },
+    { "name": "Height", "domain": "height.app" },
+    { "name": "ClickUp", "domain": "clickup.com" },
+    { "name": "Monday.com", "domain": "monday.com" },
+    { "name": "Notion", "domain": "notion.so" },
+    { "name": "GitHub Issues", "domain": "github.com" },
+    { "name": "Trello", "domain": "trello.com" },
+    { "name": "Basecamp", "domain": "basecamp.com" }
+  ],
+  "market": { "location_name": "United States", "language_code": "en" },
+  "engines": ["chatgpt"],
+  "runs": 5,
+  "queries": [
+    { "q": "what is Linear app", "class": "branded" },
+    { "q": "Linear vs Jira for software teams", "class": "branded" },
+    { "q": "Linear app pricing", "class": "branded" },
+    { "q": "is Linear good for issue tracking", "class": "branded" },
+    { "q": "Linear app review", "class": "branded" },
+
+    { "q": "best issue tracker for software teams", "class": "unbranded" },
+    { "q": "fastest project management tool for engineers", "class": "unbranded" },
+    { "q": "Jira alternatives for small engineering teams", "class": "unbranded" },
+    { "q": "how to track bugs and features in one tool", "class": "unbranded" },
+    { "q": "best sprint planning software 2026", "class": "unbranded" },
+    { "q": "lightweight issue tracker with keyboard shortcuts", "class": "unbranded" },
+    { "q": "project management tool startups actually use", "class": "unbranded" }
+  ]
+}
